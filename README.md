@@ -13,3 +13,6 @@ function B(param) {C(param)}
 A(foo) //passea el parametro foo 
 ```
 ## pushear 
+
+## programear 
+Como programar como te salga de la picha. Independientemente del objetivo final de la tarea a llevar a cabo y de las normas impuestas.
