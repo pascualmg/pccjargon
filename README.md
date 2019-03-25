@@ -1,4 +1,4 @@
-# pccjargon , el diccionario prohibido
+# PccJargon , el diccionario prohibido
 
 ## harcodear: 
 ## passear:
