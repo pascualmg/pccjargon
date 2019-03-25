@@ -1,2 +1,1 @@
- xserver-xorg-input-synaptics , posible desinstalaciones.:w
-# pccjargon
+# pccjargon , el diccionario prohibido
