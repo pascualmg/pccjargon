@@ -3,5 +3,13 @@
 ## harcodear:
 Acción de settear el valor de una variable, objeto o funcion con un valor literal. En vez de hacerlo con una constante como deberías.
 ## passear:
-Dícese de el método utilizado para llevarse una variable , o funcion desde un scope superior a uno inferior pasandola como parámetro en las subsecuentes anidadas.
+Dícese de el método utilizado para llevarse una variable , o funcion desde un scope superior a uno inferior pasandola como parámetro en las subsecuentes llamadas de forma anidada.
+Ejemplo: 
+```Javascript
+var foo 
+function A(param) {B(param)}
+function B(param) {C(param)}
+
+A(foo) //passea el parametro foo 
+```
 ## pushear 
