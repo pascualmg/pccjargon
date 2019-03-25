@@ -1,5 +1,5 @@
 # pccjargon , el diccionario prohibido
 
-##harcodear: 
-##passear:
-##pushear 
+## harcodear: 
+## passear:
+## pushear 
